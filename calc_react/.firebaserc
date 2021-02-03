@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "calc-cash",
+    "calc": "calc-cash"
+  }
+}
